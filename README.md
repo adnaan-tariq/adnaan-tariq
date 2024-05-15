@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![logo](https://github.com/adnaan-tariq/adnaan-tariq/blob/main/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Adnan</h1>
-<h3 align="center">A passionate C, C++, Python learner from Pakistan.</h3>
+<h3 align="center">A passionate learner from Pakistan.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnaan-tariq&label=Profile%20views&color=0e75b6&style=flat" alt="adnaan-tariq" /> </p>
@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **nothing, wasting my time.**
 
-- 🌱 I’m currently learning **C, C++, Python.**
+- 🌱 I’m currently learning **some piece of shit!!**
 
 - 👯 I’m looking to collaborate on **something useful that makes me productive.**
 
 - 🤝 I’m looking for help with **improving myself.**
 
-- 💬 Ask me about **C, C++, Python**
+- 💬 Ask me about **nothing**
 
 - 📫 How to reach me **adnantariq966@gmail.com**
 
